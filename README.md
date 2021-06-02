@@ -1,4 +1,4 @@
-# flutter_application_1
+# flutter Full Course
 
 A new Flutter project.
 
