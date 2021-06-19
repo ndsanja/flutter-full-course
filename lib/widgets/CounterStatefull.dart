@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 
-class HelloWorld extends StatefulWidget {
-  const HelloWorld({Key? key}) : super(key: key);
+class CounterStatefull extends StatefulWidget {
+  const CounterStatefull({Key? key}) : super(key: key);
 
   @override
   _HelloWorldState createState() => _HelloWorldState();
 }
 
-class _HelloWorldState extends State<HelloWorld> {
+class _HelloWorldState extends State<CounterStatefull> {
   int counter = 0;
   @override
   Widget build(BuildContext context) {
